@@ -1,0 +1,20 @@
+{
+  "name": "header-hostname",
+  "description": "Get a hostname from http request headers.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kumatch/header-hostname",
+  "license": "MIT",
+  "repository": {
+    "url": "git://github.com/kumatch/header-hostname.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader"
+  },
+  "devDependencies": {
+    "espower-loader": "^0.11.0",
+    "intelli-espower-loader": "^0.7.0",
+    "mocha": "^2.2.5",
+    "power-assert": "^0.11.0"
+  }
+}
