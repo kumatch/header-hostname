@@ -3,6 +3,8 @@ header-hostname
 
 Get a hostname from http request headers.
 
+[![Build Status](https://travis-ci.org/kumatch/header-hostname.png?branch=master)](https://travis-ci.org/kumatch/header-hostname)
+
 
 Install
 --------
@@ -33,7 +35,7 @@ License
 
 Licensed under the MIT License.
 
-Copyright (c) 2014 Yosuke Kumakura
+Copyright (c) 2015 Yosuke Kumakura
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
